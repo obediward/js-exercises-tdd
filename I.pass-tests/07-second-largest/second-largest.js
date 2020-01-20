@@ -8,7 +8,7 @@ function secondLargest(Array) {
 }
 module.exports = secondLargest;
 
-// (potato) => cucumber is the same than
+//(potato) => cucumber is the same than
 //function xxx(potato) { return cucumber }
 
 // var points = [40, 100, 1, 5, 25, 10];
